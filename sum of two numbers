@@ -1,0 +1,6 @@
+#simple python program - BEGINNER FRIENDLY APPROACH
+#TO FIND THE SUM OF 2 NUMBERS
+x=10       # no need for declaration as PYHTON IS DYNAMICALLY TYPED
+y=20
+sum=x+y
+print(sum)   #print() function to print or display something on the screen
